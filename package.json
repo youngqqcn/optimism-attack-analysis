@@ -1,0 +1,23 @@
+{
+  "name": "optimism-attack-analysis",
+  "version": "1.0.0",
+  "description": "分析optimism重放合约地址攻击事件",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngqqcn/optimism-attack-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngqqcn/optimism-attack-analysis/issues"
+  },
+  "homepage": "https://github.com/youngqqcn/optimism-attack-analysis#readme",
+  "dependencies": {
+    "rlp": "^3.0.0",
+    "web3": "^1.7.3"
+  }
+}
